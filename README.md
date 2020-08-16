@@ -4,5 +4,5 @@
 > by Sir Reginald Hargreeves
 
 ```
-The Umbrella Academy Season 2 Episode 6
+The Umbrella Academy Season 2 Episode 6 00:39:33,579 --> 00:39:39,377
 ```
